@@ -1,0 +1,8 @@
+{
+  "timeEstimate": {
+    "active": true,
+    "estimate": "PT5H",
+    "includeNonBillable": true,
+    "type": "Manual"
+  }
+}

@@ -1,0 +1,4 @@
+{
+"message": "Required request body is missing: public com.clockify.adapter.http.v1.dto.WorkspaceDtoV1 com.clockify.adapter.http.v1.workspace.WorkspaceHttpAdapter.create(com.clockify.adapter.http.v1.workspace.WorkspaceRequest,com.clockify.adapter.spring.security.CurrentAuth)",
+"code": 3002
+}
